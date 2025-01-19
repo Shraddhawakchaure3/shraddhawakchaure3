@@ -1,8 +1,13 @@
 Hello Shraddha Wakchaure Here.....
 
-👨‍💻 Aspiring Software Developer | 🚀 Tech Enthusiast | 🌱 Farmer's Roots
+👨‍💻 Aspiring Software Developer | 🚀 Tech Enthusiast | 🌱 Farmer's Roots |
 
-🎓 Pursuing Information Technology at Sanjivani College of Engineering, Kopargaon 💡 Passionate about Web Development, Game Development A Flappy Bird Game with optimized collision detection 📚 Learning and building at the intersection of technology and innovation 🌟 Hobbies: Cooking & coding 🌱
+🎓 Pursuing Information Technology at Sanjivani College of Engineering, Kopargaon.
+💡Passionate about Web Development, Game Development.
+🎮Developed A Flappy Bird Game with optimized collision detection using Object Pool Data Structre.
+📚Learning and building at the intersection of technology and innovation.
+🌟Hobbies: Cooking & coding.
+
 
 🌐 Let's create something amazing together!
 <!---
