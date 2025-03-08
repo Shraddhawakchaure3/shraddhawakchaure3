@@ -89,7 +89,7 @@
 <h2 align="center">🎉 My Contribution 🎉</h2>
 
 <p align="center">
-  <img src="dist/snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/Shraddhawakchaure3/Shraddhawakchaure3/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 <p align="center">
