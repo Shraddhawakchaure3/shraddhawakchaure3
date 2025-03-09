@@ -3,7 +3,7 @@
 <p align="center">Welcome to my GitHub profile! I'm a passionate developer with a keen interest in learning new technologies and improving my skills. Here’s a bit more about me:</p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10">
 </p>
 
 <h2 align="center">🌟 About Me 🌟</h2>
@@ -15,7 +15,7 @@
 - 🎮 Fun fact: I have developed a Flappy Bird Game with optimized collision detection!
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10">
 </p>
 
 <h2 align="center">🔧 Languages and Tools 🔧</h2>
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10">
 </p>
 
 <h2 align="center">📈 GitHub Stats 📈</h2>
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10">
 </p>
 
 <h2 align="center">📊 Top Languages 📊</h2>
@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10">
 </p>
 
 <h2 align="center">🏆 Achievements 🏆</h2>
@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10">
 </p>
 
 <h2 align="center">🌐 Connect With Me 🌐</h2>
@@ -83,7 +83,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10">
 </p>
 
 <h2 align="center">🎉 My Contribution 🎉</h2>
@@ -93,7 +93,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10">
 </p>
 
 <p align="center">Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on any project.</p>
