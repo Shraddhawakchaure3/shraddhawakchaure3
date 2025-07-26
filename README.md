@@ -86,16 +86,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10">
 </p>
 
-<h2 align="center">🎉 My Contribution 🎉</h2>
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Game">
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10">
-</p>
-
 <p align="center">Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on any project.</p>
 
 <p align="center">Happy Coding! 😊</p>
