@@ -44,25 +44,34 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Shraddhawakchaure3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shraddhawakchaure3&repo=ProcureAI&theme=tokyonight&border_color=00f5ff&bg_color=0D1117" alt="ProcureAI"/>
-  </a>
-  <a href="https://github.com/Shraddhawakchaure3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shraddhawakchaure3&repo=Saikrupa-Polymer-Management-System&theme=tokyonight&border_color=7c3aed&bg_color=0D1117" alt="Saikrupa Polymer Management System"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 ProcureAI</h3>
+      <p>AI-driven tender evaluation platform focused on automation and decision support.</p>
+      <p><img src="https://img.shields.io/badge/Java-Backend-7c3aed?style=flat-square"/> <img src="https://img.shields.io/badge/Spring%20Boot-API-00f5ff?style=flat-square"/></p>
+    </td>
+    <td width="50%">
+      <h3>🏭 Saikrupa Polymer Management System</h3>
+      <p>Business workflow solution for inventory, operations, and management reporting.</p>
+      <p><img src="https://img.shields.io/badge/MySQL-Data-7c3aed?style=flat-square"/> <img src="https://img.shields.io/badge/React-Frontend-00f5ff?style=flat-square"/></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔐 Online Silent Breach</h3>
+      <p>Cybersecurity-oriented project highlighting threat awareness and secure design thinking.</p>
+      <p><img src="https://img.shields.io/badge/Security-Focused-7c3aed?style=flat-square"/> <img src="https://img.shields.io/badge/Full%20Stack-Project-00f5ff?style=flat-square"/></p>
+    </td>
+    <td width="50%">
+      <h3>🗳️ Online Voting System</h3>
+      <p>Reliable digital voting workflow emphasizing transparency, correctness, and scalability.</p>
+      <p><img src="https://img.shields.io/badge/System-Design-7c3aed?style=flat-square"/> <img src="https://img.shields.io/badge/Web-Application-00f5ff?style=flat-square"/></p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/Shraddhawakchaure3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shraddhawakchaure3&repo=Online-Silent-Breach&theme=tokyonight&border_color=22d3ee&bg_color=0D1117" alt="Online Silent Breach"/>
-  </a>
-  <a href="https://github.com/Shraddhawakchaure3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shraddhawakchaure3&repo=Online-Voting-System&theme=tokyonight&border_color=00f5ff&bg_color=0D1117" alt="Online Voting System"/>
-  </a>
-</p>
-
-> *If a card does not render, the project may be private or the repository name may differ.*
+<p align="center"><a href="https://github.com/Shraddhawakchaure3?tab=repositories"><b>Explore all repositories →</b></a></p>
 
 ---
 
@@ -133,7 +142,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shraddhawakchaure3/Shraddhawakchaure3/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Shraddhawakchaure3/Shraddhawakchaure3/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
