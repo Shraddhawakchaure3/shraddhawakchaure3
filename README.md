@@ -128,7 +128,11 @@
 ## 💡 Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+  <i>"Code • Create • Secure 🔒"</i>
+</p>
+
+<p align="center">
+  <b>Turning ideas into scalable software, one commit at a time. 🚀</b>
 </p>
 
 
