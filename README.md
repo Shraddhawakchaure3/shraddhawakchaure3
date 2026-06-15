@@ -77,12 +77,15 @@
 </p>
 
 ---
+## 💡 Quote
 
-# 💡 Quote
+<p align="center">
 
-> **"Code • Create • Secure 🔒"**
+<h2>✨ <b>Code • Create • Secure 🔒</b></h2>
 
-> **"Turning ideas into scalable software, one commit at a time." 🚀**
+<h3><i>🚀 Turning ideas into scalable software, one commit at a time.</i></h3>
+
+</p>
 
 ---
 
