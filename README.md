@@ -10,10 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=Shraddhawakchaure3&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="Animated coding gif"/>
-</p>
-
 ---
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Y4OWY2Y2I0M2I2N2MwOWFkY2M0NDliMjQxYWQ3YTliNWE3YjE3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="28"/> About Me
@@ -70,8 +66,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center"><a href="https://github.com/Shraddhawakchaure3?tab=repositories"><b>Explore all repositories →</b></a></p>
 
 ---
 
