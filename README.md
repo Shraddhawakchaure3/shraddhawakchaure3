@@ -35,9 +35,9 @@
 ---
 
 # 🚀 Featured Projects
-
-- 📦 Electronics Lab Inventory Management System
-- 🤖 AI Tender Evaluation & Eligibility Analysis
+- 🤖 ProcureAI – AI Tender Evaluation
+- 🏭 Saikrupa Polymer Management System
+- 🔐 Online Silent Breach
 - 🗳️ Online Voting System
 - 📋 Task Reminder Application
 - 🌐 Personal Portfolio Website
