@@ -145,6 +145,8 @@
   <img src="https://raw.githubusercontent.com/Shraddhawakchaure3/Shraddhawakchaure3/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
+<p align="center"><sub>Snake asset is generated from the profile workflow into the <code>output</code> branch.</sub></p>
+
 ---
 
 <p align="center">
