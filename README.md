@@ -131,17 +131,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
 </p>
 
----
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shraddhawakchaure3/Shraddhawakchaure3/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
-<p align="center"><sub>Snake asset is generated from the profile workflow into the <code>output</code> branch.</sub></p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00f5ff,50:7c3aed,100:0f0c29" alt="Footer"/>
@@ -151,4 +141,4 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180" alt="Footer GIF"/>
 </p>
 
-<p align="center"><b>Thanks for visiting — let's build secure, scalable, and impactful software.</b></p>
+<p align="center"><b>Thanks for visiting - let's build secure, scalable, and impactful software.</b></p>
