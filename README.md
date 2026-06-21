@@ -14,13 +14,13 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Y4OWY2Y2I0M2I2N2MwOWFkY2M0NDliMjQxYWQ3YTliNWE3YjE3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="28"/> About Me
 
-🎓 Final Year B.Tech (Information Technology)
-💼 Focused on backend engineering, full-stack systems, and secure development
-☕ Core stack: Java, Spring Boot, REST APIs, MySQL
-⚛️ Frontend: React, JavaScript, HTML, CSS
-🔐 Cybersecurity learner actively practicing on TryHackMe
-🧠 Consistent DSA problem solver (LeetCode, GFG, HackerRank, CodeChef)
-📫 Reach me at **shraddhawakchaure3@gmail.com**
+- 🎓 Final Year B.Tech (Information Technology)
+- 💼 Focused on backend engineering, full-stack systems, and secure development
+- ☕ Core stack: Java, Spring Boot, REST APIs, MySQL
+- ⚛️ Frontend: React, JavaScript, HTML, CSS
+- 🔐 Cybersecurity learner actively practicing on TryHackMe
+- 🧠 Consistent DSA problem solver (LeetCode, GFG, HackerRank, CodeChef)
+- 📫 Reach me at **shraddhawakchaure3@gmail.com**
 
 ---
 
